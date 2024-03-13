@@ -1,0 +1,6 @@
+Requerimientos Globales (12/03/2024)
+- Gestionar Pedidos
+- Gestionar Cobros
+- Gestionar Mesas
+- Gestionar Platos
+- Gestionar Reportes e Informes
