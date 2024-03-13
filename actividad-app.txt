@@ -1,0 +1,5 @@
+13/03/2024
+
+- Diferenciar el click derecho del izquierdo al ver las mesas: click izquierdo para entrar y consultar la mesa; click derecho para ver más opciones de la mesa (mover, unir con otra, etc).
+- Los mozos se cargan en la gestión de las mesas y sectores.
+- Enviado el pedido no se puede eliminar (solo el cajero lo puede hacer).
